@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "img":"../../static/img/1.png",
+      "name": "手工陶制碗碟",
+      "price": "20",
+      "count": 1,
+      "showimg":"../../static/img/5.png",
+      "faimg":"../../static/img/6.png",
+      "isShow":true
+    },
+    {
+      "id": 2,
+      "img":"../../static/img/2.png",
+      "name": "北欧简约大床",
+      "price": "1099",
+      "count": 1,
+      "showimg":"../../static/img/5.png",
+      "faimg":"../../static/img/6.png",
+      "isShow":true
+    },
+    {
+      "id": 3,
+      "img":"../../static/img/3.png",
+      "name": "文艺小资实木椅",
+      "price": "1099",
+       "count": 1,
+       "showimg":"../../static/img/5.png",
+      "faimg":"../../static/img/6.png",
+      "isShow":true
+    },
+    {
+      "id": 4,
+      "img":"../../static/img/1.png",
+      "name": "文艺清新范沙发",
+      "price": "0.01",
+       "count": 1,
+       "showimg":"../../static/img/5.png",
+      "faimg":"../../static/img/6.png",
+      "isShow":true
+    }
+  ]

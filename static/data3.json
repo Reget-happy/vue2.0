@@ -1,0 +1,43 @@
+[
+    {
+        "img":"../../static/images/未标题-3.png",
+        "name":"Beats EP头戴耳机",
+        "price":"558",
+        "title":"1872人付款",
+        "num":1,
+        "checked":false
+    },
+    {
+        "img":"../../static/images/未标题-7.png",
+        "name":"雀巢(Nestle)高钙成人奶粉",
+        "price":"60",
+        "title":"2374人付款",
+        "num":1,
+        "checked":false
+    },
+    {
+        "img":"../../static/images/未标题-4.png",
+        "name":"煎炒烹炸一锅多用",
+        "price":"216",
+        "title":"351人付款",
+        "num":1,
+        "checked":false
+    },
+    {
+        "img":"../../static/images/未标题-5.png",
+        "name":"ANNE KLEIN 潮流经典美式轻奢",
+        "price":"585",
+        "title":"8191人付款",
+        "num":1,
+        "checked":false
+    },
+    {
+        "img":"../../static/images/未标题-6.png",
+        "name":"乐高EV3机器人积木玩具",
+        "price":"3099",
+        "title":"165人付款",
+        "num":1,
+        "checked":false
+    }
+    
+]
